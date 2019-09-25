@@ -73,6 +73,8 @@ ChildProcID: 9660
 ------------------------------------------------------
 ````
 
+- the client IP is note returned (::1) working with `localhost:3000`
+
 __Useful links:__
 
 - [Node.js - Child Processes](https://nodejs.org/docs/latest-v10.x/api/child_process.html)
