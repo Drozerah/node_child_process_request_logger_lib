@@ -57,19 +57,19 @@ __Notes:__
 
 `./temporary/log.txt`
 ````
-REQUEST: Wed Sep 25 2019 10:29:49 GMT+0200 (GMT+02:00)
-TIME: 1569400189224
+REQUEST: Wed Sep 25 2019 11:57:05 GMT+0200 (GMT+02:00)
+TIME: 1569405425074
 PATH: /
 ClientIP: ::1
-ProcID: 8580
-ChildProcID: 9468
+ProcID: 9416
+ChildProcID: 12236
 ------------------------------------------------------
-REQUEST: Wed Sep 25 2019 10:32:11 GMT+0200 (GMT+02:00)
-TIME: 1569400331687
+REQUEST: Wed Sep 25 2019 11:57:09 GMT+0200 (GMT+02:00)
+TIME: 1569405429155
 PATH: /
 ClientIP: ::1
-ProcID: 7360
-ChildProcID: 9660
+ProcID: 9416
+ChildProcID: 8708
 ------------------------------------------------------
 ````
 
